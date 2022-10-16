@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1095585625883-dmp6pelvi64mg3opog9comu2hj5kpjh8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1095585625883-dmp6pelvi64mg3opog9comu2hj5kpjh8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDW3pLlXAuv5hAxSGcV-QyXFm74K-GIBtw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1095585625883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saraFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>fluttersara</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluttersara.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1095585625883:ios:eed08d1b213634e2d305be</string>
+</dict>
+</plist>
